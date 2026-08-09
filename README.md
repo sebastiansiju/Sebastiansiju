@@ -1,5 +1,10 @@
 # 💫 About Me:
-### ⚡ About Me<br><br>- 🔭 **I’m currently working on** *Phish Hunt: Spot the Scam* (a cybersecurity awareness game for teens) and home lab network setups.<br>- 👯 **I’m looking to collaborate on** open-source security tools, network monitoring utilities, and interactive cybersecurity projects.<br>- 🤝 **I’m looking for help with** advanced penetration testing frameworks and automated firewall rule management.<br>- 🌱 **I’m currently learning** advanced pfSense configuration, network traffic analysis with Wireshark, and Linux system administration.<br>- 💬 **Ask me about** network security, setting up firewalls, student representation, or project management.<br>- ⚡ **Fun fact** I know how to dial in custom audio EQ settings to make standard headphones sound like they have a full-size subwoofer!
+- 🔭 **I’m currently working on** algorithm and data-structure projects in Python — TSP route optimisation, CPU scheduling simulation, and thread-safe inventory control — alongside pfSense home lab network setups.
+- 👯 **I’m looking to collaborate on** open-source security tools, network monitoring utilities, and interactive cybersecurity projects.
+- 🤝 **I’m looking for help with** advanced penetration testing frameworks and automated firewall rule management.
+- 🌱 **I’m currently learning** advanced pfSense configuration, network traffic analysis with Wireshark, and Linux system administration.
+- 💬 **Ask me about** network security, setting up firewalls, student representation, or project management.
+- ⚡ **Fun fact** I know how to dial in custom audio EQ settings to make standard headphones sound like they have a full-size subwoofer!
 
 
 ## 🌐 Socials:
